@@ -1,0 +1,2 @@
+# directmarketinglogisticregression
+direct marketing logistic regression analysis
